@@ -20,6 +20,7 @@ Critical thinking skills
 Innovative thinking.
 
 I am looking to join the industry as an intern. In which I hope to enhance all the required tech skills and my personal skills within a short span of time.
+
 Checkout my LinkedIN profile - https://www.linkedin.com/in/shanmugapriyan-murugaiah/
 Reach out to me through mail - shanmucode27@gmail.com
 
