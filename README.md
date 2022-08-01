@@ -5,11 +5,12 @@ I am a Software Engineering student with the motive to be a part of team in deve
 
 Some of the Tech Skills that I possess :
 
-Frontend - { HTML5, CSS3(Vanilla and Scss), JavaScript(Vanilla and VueJS framework).
+Frontend - { HTML5, CSS3(Vanilla and Scss), JavaScript(Vanilla Js and VueJS framework {learning React js and Node js}).
 Database - {MySQL}
-Programming languages - {Java SE, C language}
+Programming languages - {Java SE, C language, Python, PHP}
+Mobile development - React Native
 
-I am working on improving the above listed skills and also learning - ASP.NET, Figma, Python , UI Design (Figma, Balsamiq).
+I am working on improving the above listed skills and also learning - ASP.NET, Figma, UI Design (Figma, Balsamiq).
 
 Some of the Soft Skills that I possess :
 
