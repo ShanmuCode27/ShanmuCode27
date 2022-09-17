@@ -5,7 +5,7 @@ I am a Software Engineering student with the motive to be a part of team in deve
 
 Some of the Tech Skills that I possess :
 
-Frontend - { HTML5, CSS3(Vanilla and Scss), JavaScript(Vanilla Js and VueJS framework {learning React js and Node js}).
+Frontend - { HTML5, CSS3(Vanilla and Scss), Bootstrap, JavaScript(Vanilla Js and VueJS framework {learning React js and Node js}).
 Database - {MySQL}
 Programming languages - {Java SE, C language, Python, PHP}
 Mobile development - React Native
